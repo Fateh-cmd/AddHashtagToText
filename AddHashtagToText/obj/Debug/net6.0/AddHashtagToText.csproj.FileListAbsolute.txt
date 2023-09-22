@@ -1,0 +1,14 @@
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/bin/Debug/net6.0/AddHashtagToText
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/bin/Debug/net6.0/AddHashtagToText.deps.json
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/bin/Debug/net6.0/AddHashtagToText.runtimeconfig.json
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/bin/Debug/net6.0/AddHashtagToText.dll
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/bin/Debug/net6.0/AddHashtagToText.pdb
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/obj/Debug/net6.0/AddHashtagToText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/obj/Debug/net6.0/AddHashtagToText.AssemblyInfoInputs.cache
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/obj/Debug/net6.0/AddHashtagToText.AssemblyInfo.cs
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/obj/Debug/net6.0/AddHashtagToText.csproj.CoreCompileInputs.cache
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/obj/Debug/net6.0/AddHashtagToText.dll
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/obj/Debug/net6.0/refint/AddHashtagToText.dll
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/obj/Debug/net6.0/AddHashtagToText.pdb
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/obj/Debug/net6.0/AddHashtagToText.genruntimeconfig.cache
+/Users/fateh/Projects/CSharpMethodsAssignment/AddHashtagToText/AddHashtagToText/obj/Debug/net6.0/ref/AddHashtagToText.dll
